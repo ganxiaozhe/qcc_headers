@@ -7,5 +7,5 @@
 python3 qcc_headers.py
 ```
 
-## 原理
+## 逆向过程及原理
 [https://gxzv.com/blog/qcc_headers_hash/](https://gxzv.com/blog/qcc_headers_hash/?f=readme)
